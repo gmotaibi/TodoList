@@ -1,10 +1,6 @@
 # ToDoList Project
 
-This application Using React having three screens with proper navigation using API from the website https://jsonplaceholder.typicode.com .
-
-1- List all Todo Item form https://jsonplaceholder.typicode.com/todos service.
-2-Use item id to fetch data from server Ex: https://jsonplaceholder.typicode.com/todos/1 
-3-New Todo Item.
+This application allowes you to add,delete and update the daily task. so that you can orgnize your life .The project emphasizes using React to build the application and provides an API server 
 
 
 
